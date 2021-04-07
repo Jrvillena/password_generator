@@ -9,6 +9,5 @@ created if/else for upperCase prompt<br>
 created function prompt for special characters<br>
 created if/else for special characters prompt<br>
 created console.logs for all variables<br>
-created if/else for combination of different variables <br>
-added math.floor<br>
-
+created if/else for combination of different variables<br>
+added math.floor
